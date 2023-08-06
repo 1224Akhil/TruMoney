@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="daily">Daily</string>
+    <string name="monthly">Monthly</string>
+    <string name="calendar">Calendar</string>
+    <string name="summary">Summary</string>
+    <string name="notes">Notes</string>
+</resources>
